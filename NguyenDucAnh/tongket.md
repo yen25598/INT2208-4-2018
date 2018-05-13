@@ -20,3 +20,10 @@
 +- Người chấm: Đặng Thị Tuyết
 +- Điểm: 9
 +- Nhận xét:  Tham gia đóng góp bài tập nhóm, hoàn thành các bài học, khóa học cần thiết và có minh chứng đầy đủ
+ 
+ 5. Người chấm: Nguyễn Thị Hải Yến
+Điểm:9
+Nhận xét: Hoàn thành tương đối đầy đủ.
+Phần tự học: tự học đầy đủ và có 1 số project.
+Phần bài tập nhóm: có tham gia đầy đủ.
+Phần bài tập cá nhân:  Làm tương đối nhiều và đầy đủ
