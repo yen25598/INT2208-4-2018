@@ -18,3 +18,9 @@
 	* [JavaScript](https://github.com/hoanganhit1997/INT2208-4-2018/blob/master/NguyenHoangAnh/Javascript.jpg): Học trên codeacademy
 	* [Bootstrap](https://github.com/hoanganhit1997/INT2208-4-2018/tree/master/NguyenHoangAnh/Bootstrap): Học trên link thầy cho
 4. Chấm điểm chéo:
+ Người chấm: Nguyễn Thị Hải Yến
+Điểm:9
+Nhận xét: Tự hoc và  tham gia làm bài tập nhóm tương đối nhiều và đầy đủ.
+Phần tự học: Đã học khá đầy đủ.
+Phần cá nhân: làm đầy đủ các mục yêu cầu.
+Phần bài tập lớn: Tham gia làm đầy đủ
